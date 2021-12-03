@@ -1,4 +1,4 @@
-# [Addon] Sorting Manager > Journal3
+# [Addon] Sorting Manager > Journal 3
 
 ## Description
 The addon for linking "Sorting Manager" extension to Journal3 template.
