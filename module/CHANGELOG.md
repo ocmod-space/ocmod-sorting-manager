@@ -1,5 +1,9 @@
 # Change log
 
+## [1.4.0] - 2022-02-25:
+### Internal
+- Code refactoring
+
 ## [1.3.0] - 2021-11-12:
 ### Added
 - Sorting by quantity

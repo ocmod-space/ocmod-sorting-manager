@@ -7,23 +7,23 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Installer → [Upload]: sorting-manager.ocmod.zip
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → #ocmod.space | Sorting Manager → [Install]
+* Extensions → Extensions → Modules → #ocmod.space: sorting-manager → [Install]
 
 ## Uninstall
-* Extensions → Extensions → Modules → #ocmod.space | Sorting Manager → [Uninstall]
+* Extensions → Extensions → Modules → #ocmod.space: sorting-manager → [Uninstall]
 * Extensions → Installer → Install History → sorting-manager.ocmod.zip → [Uninstall]
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
 
 ## Update
-* Extensions → Extensions → Modules → #ocmod.space | Sorting Manager → [Uninstall]
+* Extensions → Extensions → Modules → #ocmod.space: sorting-manager → [Uninstall]
 * Extensions → Installer → Install History → sorting-manager.ocmod.zip → [Uninstall]
 * Extensions → Installer → [Upload]: sorting-manager.ocmod.zip
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → #ocmod.space | Sorting Manager → [Install]
+* Extensions → Extensions → Modules → #ocmod.space: sorting-manager → [Install]
 
 ## Configure
-* Extensions → Extensions → Modules → #ocmod.space | Sorting Manager → [Edit]
+* Extensions → Extensions → Modules → #ocmod.space: sorting-manager → [Edit]
 
 
