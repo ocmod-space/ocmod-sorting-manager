@@ -1,6 +1,10 @@
 .git
 _fcl
-_oem
+_pak
 zip
+.fclignore
+.gitignore
+.php-cs-fixer.php_cs
+.sorting-manager.code-workspace
 hideg.pwd
-oemaker.php
+pakrun.php
