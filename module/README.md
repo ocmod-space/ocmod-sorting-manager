@@ -1,7 +1,7 @@
 # Sorting Manager
 
 ## Description
-**Sorting Manager** provides control over product sorting methods.
+**Sorting Manager** provides control over product sorting methods.  
 Compatible with OpenCart versions 3.x.
 
 ## Features
