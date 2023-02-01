@@ -2,7 +2,7 @@
 
 ## Description
 **Sorting Manager** provides control over product sorting methods.
-The extension is compatible with OpenCart versions 3.x.
+Compatible with OpenCart versions 3.x.
 
 ## Features
 * Various product sorting methods:
@@ -20,8 +20,11 @@ The extension is compatible with OpenCart versions 3.x.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/sorting_manager)
-* [Front](http://ocmod.freevar.com/oc3020/a)
+[Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/sorting_manager)  
+[Front](http://ocmod.freevar.com/oc3020/a)  
+
+## License
+[End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-sorting-manager/main/EULA.txt)
 
 ## Download
-* [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38651)
+[Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=38651)
