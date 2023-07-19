@@ -20,8 +20,8 @@ Compatible with OpenCart versions 3.x.
 * Does not modify system files (OCMOD).
 
 ## Live demo
-* [Module](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/sorting_manager) settings.
-* [Store Front](http://ocmod.freevar.com/oc3020/a).
+* [Module](https://demo.ocmod.space/a/admin/index.php?route=extension/module/sorting_manager) settings.
+* [Store Front](https://demo.ocmod.space/a).
 
 ## License
 [End-user License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-sorting-manager/main/EULA.txt)
