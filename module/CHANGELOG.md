@@ -2,40 +2,40 @@
 
 ## [1.4.0] - 2022-02-25:
 ### Internal
-- Code refactoring
+- Code refactoring.
 
 ## [1.3.0] - 2021-11-12:
 ### Added
-- Sorting by quantity
+- Sorting by quantity.
 ### Internal
-- Code refactoring
+- Code refactoring.
 
 ## [1.2.1] - 2021-02-01:
 ### Fixed
-- Minor issue
+- Minor issue.
 
 ## [1.2.0] - 2021-01-29:
 ### Added
-- Sorting by date modified (by viewed)
+- Sorting by date modified (by viewed).
 
 ## [1.1.0] - 2020-05-27:
 ### Added
-- Sorting by popularity (by viewed)
+- Sorting by popularity (by viewed).
 ### Changed
-- Options format
+- Options format.
 ### Fixed
-- Multi-language
-- Code improvements
+- Multi-language.
+- Code improvements.
 
 ## [1.0.2] - 2020-03-16:
 ### Fixed
-- Manufacturer page sorting issue
-- Code improvements
+- Manufacturer page sorting issue.
+- Code improvements.
 
 ## [1.0.1] - 2020-03-11:
 ### Fixed
-- Special and Manufacturer
+- Special and Manufacturer.
 
 ## [1.0.0] - 2020-03-07:
 ### Added
-- First release
+- First release.
