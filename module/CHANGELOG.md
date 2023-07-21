@@ -1,5 +1,11 @@
 # Change log
 
+## [1.4.1] - 2023-07-21:
+### Fixed
+- Event uninstaller.
+### Internal
+- Code improvement.
+
 ## [1.4.0] - 2022-02-25:
 ### Internal
 - Code refactoring.
