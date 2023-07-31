@@ -1,8 +1,12 @@
 # Change log
 
+## [1.5.1] - 2023-07-31:
+### Added
+- Minor improvements.
+
 ## [1.5.0] - 2023-07-22:
 ### Added
-- Sort by percentage of special offer (for the *Special* page only).
+- Sort by price reduction due special offer (for the *Special* page only).
 
 ## [1.4.1] - 2023-07-21:
 ### Fixed
