@@ -6,7 +6,7 @@
 
 ## [1.5.0] - 2023-07-22:
 ### Added
-- Sort by price reduction due special offer (for the *Special* page only).
+- Sort by percentage price reduction due special offer (for the *Special* page only).
 
 ## [1.4.1] - 2023-07-21:
 ### Fixed
