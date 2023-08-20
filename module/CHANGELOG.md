@@ -1,12 +1,20 @@
 # Change log
 
+## [1.5.3] - 2023-08-20:
+### Internal
+- Compatibility with GET requests of third-party extensions.
+
+## [1.5.2] - 2023-08-18:
+### Added
+- Sort all pages by price reduction (due special offer), not only on the *Special* page.
+
 ## [1.5.1] - 2023-07-31:
 ### Added
 - Minor improvements.
 
 ## [1.5.0] - 2023-07-22:
 ### Added
-- Sort by percentage price reduction due special offer (for the *Special* page only).
+- Sort *Special* page by percentage price reduction (due special offer).
 
 ## [1.4.1] - 2023-07-21:
 ### Fixed

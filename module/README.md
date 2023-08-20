@@ -13,7 +13,7 @@ Compatible with OpenCart versions 3.x.
   - by rating.
   - by views.
   - by quantity.
-  - by percentage price reduction due special offer (*Special* page only).
+  - by price reduction (due special offer).
 * Hide unusual methods.
 * Number of products per page.
 * Own settings for the *Category*, *Manufacturer*, *Search* and *Special* pages.
