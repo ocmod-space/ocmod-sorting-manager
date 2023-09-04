@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.4] - 2023-09-04:
+### Changed
+- Language files.
+
 ## [1.5.3] - 2023-08-20:
 ### Internal
 - Compatibility with GET requests of third-party extensions.
