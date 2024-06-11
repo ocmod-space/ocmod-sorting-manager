@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.5] - 2024-10-11:
+### Internal
+- Minor code updates.
+
 ## [1.5.4] - 2023-09-04:
 ### Added
 - Ability to use custom collation method names even when language files have default values.
