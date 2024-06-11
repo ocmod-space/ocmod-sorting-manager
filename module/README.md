@@ -1,8 +1,7 @@
 # Sorting Manager
 
 ## Description
-**Sorting Manager** is an advanced product sorting management module.  
-Compatible with OpenCart versions 3.x.
+**Sorting Manager** is an advanced product sorting manager for OpenCart 3x versions.
 
 ## Features
 * Various product sorting methods:
