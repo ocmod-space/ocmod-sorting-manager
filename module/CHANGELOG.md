@@ -1,6 +1,10 @@
 # Change log
 
-## [1.5.5] - 2024-10-11:
+## [1.5.6] - 2024-08-12:
+### Internal
+- Use the default store settings if the current store does not have its own.
+
+## [1.5.5] - 2024-06-11:
 ### Internal
 - Minor code updates.
 
